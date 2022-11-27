@@ -52,7 +52,7 @@ global.ownertag = '+94740263141' //your tag number
 global.botname = '🖤🥰ᮀ⃞ⁱ ᵃᵐ𝐑𝐞𝐚𝐥 𝙏𝙐𝙏𝙐😈➤⃟̱̱̱̱̄̄̄̄  🥰🖤' //ur bot name
 global.packname = "🖤🥰ᮀ⃞ⁱ ᵃᵐ𝐑𝐞𝐚𝐥 𝙏𝙐𝙏𝙐😈➤⃟̱̱̱̱̄̄̄̄  🥰🖤" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '📜' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
@@ -61,8 +61,8 @@ global.premium = ['+94740263141'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','📜'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '📜'
+global.prefa = ['','!','.','😂','❤️','🌹'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.sp = '🌹'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
